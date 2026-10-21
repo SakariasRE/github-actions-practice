@@ -15,4 +15,4 @@ jobs:
             - name: Show Branch
               run: 'echo "Branch: $GITHUB_REF_NAME"'
             - name: Finish
-              run: echo "Workflow completed successfully!"
+              run: this-command-does-not-exist"
